@@ -3,3 +3,5 @@ data/
 data/*
 *~
 *.b
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
